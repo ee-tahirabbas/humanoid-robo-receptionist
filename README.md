@@ -7,7 +7,7 @@
 
 ## 📸 Project Demo
 
-<img src="docs/Robo.png" alt="Humanoid Robo-Receptionist" width="400"/>
+<img src="docs/Robo.png" alt="Humanoid Robo-Receptionist" width="300"/>
 
 ---
 

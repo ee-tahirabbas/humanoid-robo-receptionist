@@ -7,7 +7,7 @@
 
 ## 📸 Project Demo
 
-![Humanoid Robo-Receptionist](docs/robot.png)
+![Humanoid Robo-Receptionist](docs/Robo.png)
 
 ---
 
